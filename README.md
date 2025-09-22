@@ -2,6 +2,8 @@
 <h1 align="center">I'm Shaikh Zaberiya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaberiya-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Zaberiya-codes" /> </p>
+
 - 🔭 I’m currently working on **CyberSecurity App**
 - 🌱 I’m currently learning **Java, Python.**
 
